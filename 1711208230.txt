@@ -1,0 +1,89 @@
+
+++ Army Roster (Imperium - Adeptus Astartes - Dark Angels) [2,000pts] ++
+
++ Configuration +
+
+
+Battle Size: 2. Strike Force (2000 Point limit)
+
+Detachment: Firestorm Assault Force
+
+Show/Hide Options: Agents of the Imperium are visible, Imperial Knights are visible, Legends are visible, Titans are visible, Unaligned Forces are visible, Unaligned Fortifications are visible
+
++ Epic Hero +
+
+
+Azrael [105pts]: Lion's Wrath, The Sword of Secrets, Warlord
+
++ Character +
+
+
+Apothecary [50pts]: Absolver Bolt Pistol, Close Combat Weapon, Reductor Pistol
+
+Captain in Gravis Armour [80pts]
+
+. Master-crafted Heavy Bolt Rifle and Master-crafted Power Weapon: Master-crafted Heavy Bolt Rifle, Master-crafted Power Weapon
+
++ Battleline +
+
+
+Assault Intercessor Squad [75pts]
+
+. Assault Intercessor Sergeant: Plasma Pistol, Power Fist
+. 4x Assault Intercessors: 4x Astartes Chainsword, 4x Heavy Bolt Pistol
+
+Intercessor Squad [80pts]
+
+. Intercessor Sergeant: Bolt Pistol, Bolt Rifle, Power Fist
+. 4x Intercessors: 4x Bolt Pistol, 4x Bolt Rifle, 4x Close Combat Weapon
+
+Intercessor Squad [80pts]
+
+. Intercessor Sergeant: Bolt Pistol, Bolt Rifle, Power Weapon
+. 4x Intercessors: 4x Bolt Pistol, 4x Bolt Rifle, 4x Close Combat Weapon
+
++ Infantry +
+
+
+Aggressor Squad [240pts]
+
+. Aggressor Sergeant: Twin Power Fist
+. 5x Aggressors: 5x Twin Power Fist
+. Auto Boltstorm Gauntlets & Fragstorm Grenade Launcher: Auto Boltstorm Gauntlets, Fragstorm Grenade Launcher
+
+Inceptor Squad [130pts]: Assault Bolters
+
+. 2x Inceptor: 2x Close Combat Weapon
+. Inceptor Sergeant: Close Combat Weapon
+
+Infernus Squad [80pts]
+
+. 4x Infernus Marines: 4x Bolt Pistol, 4x Close Combat Weapon, 4x Pyreblaster
+. Infernus Sergeant: Bolt Pistol, Close Combat Weapon, Pyreblaster
+
+Infiltrator Squad [100pts]: Helix Gauntlet, Infiltrator Comms Array
+
+. Infiltrator Sergeant: Bolt Pistol, Close Combat Weapon, Marksman Bolt Carbine
+. 4x Infiltrators: 4x Bolt Pistol, 4x Close Combat Weapon, 4x Marksman Bolt Carbine
+
+Sternguard Veteran Squad [180pts]
+
+. Sternguard Veteran Sergeant: Close Combat Weapon, Power Fist, Sternguard Bolt Pistol, Sternguard Bolt Rifle
+. 7x Sternguard Veteran w/Bolt Rifle: 7x Close Combat Weapon, 7x Sternguard Bolt Pistol, 7x Sternguard Bolt Rifle
+. Sternguard Veteran w/Special Weapon: Close Combat Weapon, Pyrecannon, Sternguard Bolt Pistol
+. Sternguard Veteran w/Special Weapon: Close Combat Weapon, Sternguard Bolt Pistol, Sternguard Heavy Bolter
+
++ Vehicle +
+
+
+Ballistus Dreadnought [140pts]: Armoured Feet, Ballistus Lascannon, Ballistus Missile Launcher, Twin Storm Bolter
+
+Land Raider Redeemer [260pts]: Armoured Tracks, 2x Flamestorm Cannon, Hunter Killer Missile, Multi-melta, Storm Bolter, Twin Assault Cannon
+
+Redemptor Dreadnought [210pts]: Icarus Rocket Pod, Macro Plasma Incinerator, Onslaught Gatling Cannon, Redemptor Fist, Twin Fragstorm Grenade Launcher
+
+Repulsor [190pts]: Armoured Hull, Hunter-slayer Missile, Las-talon, Repulsor Defensive Array, Twin Lascannon
+
+++ Total: [2,000pts] ++
+
+Created with BattleScribe (https://battlescribe.net)

@@ -1,0 +1,54 @@
++++ Habia que jugar algo (Warhammer 40,000 10th Edition) [1,970pts] +++
+
+++ Army Roster (Imperium - Adeptus Astartes - Dark Angels) [1,970pts] ++
+
++ Configuration +
+
+Battle Size: 2. Strike Force (2000 Point limit)
+
+Detachment: Ironstorm Spearhead
+
+Show/Hide Options: Agents of the Imperium are visible
+
++ Epic Hero [105pts] +
+
+Azrael [105pts]: Lion's Wrath, The Sword of Secrets, Warlord
+
++ Character [265pts] +
+
+Lieutenant with Combi-weapon [90pts]: Combi-weapon, Master of the Machine War [Aura] [20pts], Paired Combat Blades
+
+Techmarine [95pts]: Forge Bolter, Grav-pistol, Omnissian Power Axe, Servo-arm, Target Augury Web [Aura] [40pts]
+
+Techmarine [80pts]: Adept of the Omnissiah [25pts], Forge Bolter, Grav-pistol, Omnissian Power Axe, Servo-arm
+
++ Infantry [345pts] +
+
+Infiltrator Squad [100pts]: Helix Gauntlet, Infiltrator Comms Array
+. Infiltrator Sergeant: Bolt Pistol, Close Combat Weapon, Marksman Bolt Carbine
+. 4x Infiltrators: 4x Bolt Pistol, 4x Close Combat Weapon, 4x Marksman Bolt Carbine
+
+Scout Squad [65pts]
+. Scout Sergeant: Astartes Shotgun, Bolt Pistol, Close Combat Weapon
+. Scout w/ Scout Sniper Rifle: Bolt Pistol, Close Combat Weapon, Scout Sniper Rifle
+. 3x Scouts w/ Astartes Shotgun: 3x Astartes Shotgun, 3x Bolt Pistol, 3x Close Combat Weapon
+
+Sternguard Veteran Squad [180pts]
+. Sternguard Veteran Sergeant: Close Combat Weapon, Combi-weapon, Sternguard Bolt Pistol
+. 9x Sternguard Veteran w/Combi-weapon: 9x Close Combat Weapon, 9x Combi-weapon, 9x Sternguard Bolt Pistol
+
++ Vehicle [1,255pts] +
+
+Gladiator Lancer [160pts]: 2 Storm Bolters, Armoured Hull, Icarus Rocket Pod, Ironhail Heavy Stubber, Lancer Laser Destroyer
+
+Gladiator Lancer [160pts]: 2 Storm Bolters, Armoured Hull, Icarus Rocket Pod, Ironhail Heavy Stubber, Lancer Laser Destroyer
+
+Ravenwing Darkshroud [115pts]: Assault cannon, Close Combat Weapon
+
+Redemptor Dreadnought [210pts]: Icarus Rocket Pod, Macro Plasma Incinerator, Onslaught Gatling Cannon, Redemptor Fist, Twin Storm Bolter
+
+Redemptor Dreadnought [210pts]: Icarus Rocket Pod, Macro Plasma Incinerator, Onslaught Gatling Cannon, Redemptor Fist, Twin Storm Bolter
+
+Storm Speeder Thunderstrike [160pts]: Close Combat Weapon, Stormfury Missiles, Thunderstrike Las-talon, Twin Icarus Rocket Pod
+
+Stormraven Gunship [240pts]: Armoured Hull, Hurricane Bolter 2 Hurricane Bolters, 2x Stormstrike Missiles, Twin Heavy Plasma Cannon, Twin Multi-melta

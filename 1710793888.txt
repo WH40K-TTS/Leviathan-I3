@@ -1,0 +1,117 @@
++++ New Roster (Warhammer 40,000 10th Edition) [1,995pts] +++
+
+++ Army Roster (Xenos - T'au Empire) [1,995pts] ++
+
++ Configuration +
+
+
+Battle Size: 2. Strike Force (2000 Point limit)
+
+Detachment: Kauyon
+
+Show/Hide Options
+
++ Epic Hero [160pts] +
+
+
+Commander Shadowsun [100pts]: Battlesuit fists, Flechette launcher, 2x High-energy fusion blaster, Light missile pod, Pulse pistol, Warlord
+
+Darkstrider [60pts]: Close combat weapon, Shade
+
++ Character [305pts] +
+
+
+Cadre Fireblade [40pts]: Close combat weapon, Fireblade pulse rifle, 2x Shield Drone
+
+Cadre Fireblade [40pts]: Close combat weapon, Fireblade pulse rifle, 2x Shield Drone
+
+Commander in Coldstar Battlesuit [125pts]: Battlesuit fists, Cyclic ion blaster, 3x Cyclic ion blaster, Exemplar of the Kauyon [15pts], 2x Shield Drone
+
+Ethereal [50pts]: Honour stave, 2x Shield Drone
+
+Ethereal [50pts]: Honour stave, 2x Shield Drone
+
++ Battleline [260pts] +
+
+
+Breacher Team [90pts]: Support turret missile system
+
+. Breacher Fire Warrior Shas'ui: Close combat weapon, Guardian Drone, Pulse blaster, Pulse pistol, Shield Drone
+. 9x Breacher Fire Warriors: 9x Close combat weapon, 9x Pulse blaster, 9x Pulse pistol
+
+Breacher Team [90pts]: Support turret missile system
+
+. Breacher Fire Warrior Shas'ui: Close combat weapon, Guardian Drone, Pulse blaster, Pulse pistol, Shield Drone
+. 9x Breacher Fire Warriors: 9x Close combat weapon, 9x Pulse blaster, 9x Pulse pistol
+
+Strike Team [80pts]: Support turret missile system
+
+. Fire Warrior Shas'ui: Close combat weapon, Guardian Drone, Pulse pistol, Pulse rifle, Shield Drone
+. 9x Fire Warrior w/ pulse rifle: 9x Close combat weapon, 9x Pulse pistol, 9x Pulse rifle
+
++ Infantry [210pts] +
+
+
+Pathfinder Team [90pts]: 2x Shield Drone
+
+. Pathfinder Shas'ui: Close combat weapon, Pulse carbine, Pulse pistol
+
+. . Recon drone: Drone burst cannon
+. 5x Pathfinders w/ pulse carbine: 5x Close combat weapon, 5x Pulse carbine, 5x Pulse pistol
+. Pathfinders w/ pulse carbine and grenade launcher: Close combat weapon, Pulse carbine, Pulse pistol, Semi-automatic grenade launcher
+. 3x Pathfinders w/ rail rifle: 3x Close combat weapon, 3x Pulse pistol, 3x Rail rifle
+
+Stealth Battlesuits [60pts]
+
+. 2x Stealth Shas'ui w/ burst cannon: 2x Battlesuit fists, 2x Burst cannon
+. Stealth Shas'vre: Battlesuit fists, Fusion blaster, Homing beacon, 2x Shield Drone
+
+Stealth Battlesuits [60pts]
+
+. 2x Stealth Shas'ui w/ burst cannon: 2x Battlesuit fists, 2x Burst cannon
+. Stealth Shas'vre: Battlesuit fists, Fusion blaster, Homing beacon, 2x Shield Drone
+
++ Vehicle [910pts] +
+
+
+Broadside Battlesuits [180pts]
+
+. Broadside Shas’ui [90pts]: Crushing bulk, Heavy rail rifle, Seeker missile, 2x Shield Drone, Twin smart missile system
+. Broadside Shas’vre [90pts]: Crushing bulk, Heavy rail rifle, Seeker missile, 2x Shield Drone, Twin smart missile system
+
+Crisis Battlesuits [200pts]
+
+. Crisis Shas’ui: Battlesuit fists, Cyclic ion blaster, 2x Cyclic ion blaster, 2x Shield Drone, Shield generator
+. Crisis Shas’ui: Battlesuit fists, Cyclic ion blaster, 2x Cyclic ion blaster, 2x Shield Drone, Shield generator
+. Crisis Shas’vre: Battlesuit fists, Cyclic ion blaster, 2x Cyclic ion blaster, 2x Shield Drone, Shield generator
+
+Ghostkeel Battlesuit [160pts]: Battlesuit support system, Cyclic ion raker, Ghostkeel fists, Twin burst cannon
+
+Hammerhead Gunship [130pts]: Armoured hull, Railgun, 2x Seeker missile
+
+. 2 Twin pulse carbines: 2x Twin pulse carbine
+
+Tetras [80pts]
+
+. 2x Tetra: 2x Close combat weapons, 4x Pulse rifle
+
+Tetras [80pts]
+
+. 2x Tetra: 2x Close combat weapons, 4x Pulse rifle
+
+Tetras [80pts]
+
+. 2x Tetra: 2x Close combat weapons, 4x Pulse rifle
+
++ Dedicated Transport [150pts] +
+
+
+Devilfish [75pts]: Accelerator burst cannon, Armoured hull
+
+. 2 Twin pulse carbines: 2x Twin pulse carbine
+
+Devilfish [75pts]: Accelerator burst cannon, Armoured hull
+
+. 2 Twin pulse carbines: 2x Twin pulse carbine
+
+Created with BattleScribe (https://battlescribe.net)

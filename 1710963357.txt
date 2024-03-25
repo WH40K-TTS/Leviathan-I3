@@ -1,0 +1,106 @@
++++++++++++++++++++++++++++++++++++++++++++++++
++ FACTION KEYWORD: Xenos - T'au Empire
++ DETACHMENT: Kauyon
++ TOTAL ARMY POINTS: 1995pts
++
++ WARLORD: Char1: Longstrike
++ ENHANCEMENT: 
++ NUMBER OF UNITS: 20
++++++++++++++++++++++++++++++++++++++++++++++++
+
+BATTLELINE
+
+10x Breacher Team (90 pts)
+• 1x Breacher Fire Warrior Shas'ui
+    1 with Close combat weapon, Pulse blaster, Pulse pistol, Twin pulse carbine
+      • Guardian Drone
+• 9x Breacher Fire Warriors
+    9 with Close combat weapon, Pulse blaster, Pulse pistol, Support turret missile system
+
+10x Breacher Team (90 pts)
+• 1x Breacher Fire Warrior Shas'ui
+    1 with Close combat weapon, Pulse blaster, Pulse pistol, Twin pulse carbine
+      • Guardian Drone
+• 9x Breacher Fire Warriors
+    9 with Close combat weapon, Pulse blaster, Pulse pistol, Support turret missile system
+
+10x Breacher Team (90 pts)
+• 1x Breacher Fire Warrior Shas'ui
+    1 with Close combat weapon, Pulse blaster, Pulse pistol, Twin pulse carbine
+      • Guardian Drone
+• 9x Breacher Fire Warriors
+    9 with Close combat weapon, Pulse blaster, Pulse pistol, Support turret missile system
+
+CHARACTER
+
+Char1: 1x Longstrike (140 pts)
+1 with Armoured hull, Railgun, 2x Seeker missile, 2x Accelerator burst cannon
+  • Warlord
+
+OTHER DATASHEETS
+
+10x Kroot Carnivores (55 pts)
+• 10x Kroot Carnivores
+    10 with Kroot rifle
+
+10x Kroot Carnivores (55 pts)
+• 10x Kroot Carnivores
+    10 with Kroot rifle
+
+10x Kroot Carnivores (55 pts)
+• 10x Kroot Carnivores
+    10 with Kroot rifle
+
+4x Kroot Hounds (30 pts)
+• 4x Kroot Hounds
+    4 with Ripping fangs
+
+4x Kroot Hounds (30 pts)
+• 4x Kroot Hounds
+    4 with Ripping fangs
+
+3x Crisis Battlesuits (200 pts)
+• 2x Crisis Shas’ui
+    2 with Battlesuit fists, Cyclic ion blaster, 2x Cyclic ion blaster
+      • 2x Shield Drone, Shield generator
+• 1x Crisis Shas’vre
+    1 with Battlesuit fists, Cyclic ion blaster, 2x Cyclic ion blaster
+      • 2x Shield Drone, Shield generator
+
+3x Crisis Battlesuits (200 pts)
+• 2x Crisis Shas’ui
+    2 with Battlesuit fists, Cyclic ion blaster, 2x Cyclic ion blaster
+      • 2x Shield Drone, Shield generator
+• 1x Crisis Shas’vre
+    1 with Battlesuit fists, Cyclic ion blaster, 2x Cyclic ion blaster
+      • 2x Shield Drone, Shield generator
+
+1x Riptide Battlesuit (165 pts)
+1 with Riptide fists, Ion accelerator, Missile pod, Twin plasma rifle
+
+1x Riptide Battlesuit (165 pts)
+1 with Riptide fists, Ion accelerator, Missile pod, Twin plasma rifle
+
+1x Riptide Battlesuit (165 pts)
+1 with Riptide fists, Ion accelerator, Missile pod, Twin plasma rifle
+
+2x Tetras (80 pts)
+• 2x Tetra
+    2 with Close combat weapons, 2x Pulse rifle
+
+2x Tetras (80 pts)
+• 2x Tetra
+    2 with Close combat weapons, 2x Pulse rifle
+
+2x Tetras (80 pts)
+• 2x Tetra
+    2 with Close combat weapons, 2x Pulse rifle
+
+1x Devilfish (75 pts)
+1 with Accelerator burst cannon, Armoured hull, 2x Seeker missile, 2x Twin pulse carbine
+
+1x Devilfish (75 pts)
+1 with Accelerator burst cannon, Armoured hull, 2x Seeker missile, 2x Twin pulse carbine
+
+1x Devilfish (75 pts)
+1 with Accelerator burst cannon, Armoured hull, 2x Seeker missile, 2x Twin pulse carbine

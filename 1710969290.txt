@@ -1,0 +1,101 @@
+++ Army Roster (Imperium - Adeptus Astartes - Space Wolves) [2,000pts] ++
+
++ Configuration +
+
+
+Battle Size: 2. Strike Force (2000 Point limit)
+
+Detachment: Firestorm Assault Force
+
+Show/Hide Options: Agents of the Imperium are visible
+
++ Epic Hero +
+
+
+Ragnar Blackmane [90pts]: Warlord
+
++ Character +
+
+
+Captain in Gravis Armour [80pts]
+
+. Boltstorm Gauntlet, Powerfist, and Relic weapon Fist: Relic Fist
+
+Lieutenant with Combi-weapon [70pts]
+
++ Battleline +
+
+
+Assault Intercessor Squad [75pts]
+
+. Assault Intercessor Sergeant: Plasma Pistol, Power Fist
+. 4x Assault Intercessors: 4x Astartes Chainsword, 4x Heavy Bolt Pistol
+
++ Infantry +
+
+
+Aggressor Squad [240pts]: Flamestorm Gauntlets
+
+. Aggressor Sergeant
+. 5x Aggressors: 5x Twin Power Fist
+
+Inceptor Squad [260pts]: Plasma Exterminators
+
+. 5x Inceptor: 5x Close Combat Weapon
+. Inceptor Sergeant
+
+Infiltrator Squad [100pts]: Helix Gauntlet
+
+. Infiltrator Sergeant
+. 4x Infiltrators: 4x Bolt Pistol, 4x Close Combat Weapon, 4x Marksman Bolt Carbine
+
+Infiltrator Squad [100pts]: Helix Gauntlet
+
+. Infiltrator Sergeant
+. 4x Infiltrators: 4x Bolt Pistol, 4x Close Combat Weapon, 4x Marksman Bolt Carbine
+
+Scout Squad [65pts]
+
+. Scout Sergeant: Astartes Chainsword
+. Scout w/ Heavy Weapon: Missile Launcher
+. Scout w/ Scout Sniper Rifle
+. 2x Scouts w/ Astartes Shotgun: 2x Astartes Shotgun, 2x Bolt Pistol, 2x Close Combat Weapon
+
+Scout Squad [65pts]
+
+. Scout Sergeant: Astartes Chainsword
+. Scout w/ Heavy Weapon: Missile Launcher
+. Scout w/ Scout Sniper Rifle
+. 2x Scouts w/ Astartes Shotgun: 2x Astartes Shotgun, 2x Bolt Pistol, 2x Close Combat Weapon
+
++ Beast +
+
+
+Fenrisian Wolves [30pts]
+
+. 5x Fenrisian Wolf: 5x Teeth and claws
+
++ Vehicle +
+
+
+Gladiator Lancer [160pts]: 2 Storm Bolters, Icarus Rocket Pod, Ironhail Heavy Stubber
+
+Gladiator Lancer [160pts]: 2 Storm Bolters, Icarus Rocket Pod, Ironhail Heavy Stubber
+
+Land Raider Redeemer [260pts]: Hunter Killer Missile, Multi-melta, Storm Bolter
+
++ Dedicated Transport +
+
+
+Impulsor [80pts]: 2 Storm Bolters, Ironhail Heavy Stubber, Shield Dome
+
++ Allied Units +
+
+
+Callidus Assassin [90pts]
+
+Eversor Assassin [75pts]
+
+++ Total: [2,000pts] ++
+
+Created with BattleScribe (https://battlescribe.net)

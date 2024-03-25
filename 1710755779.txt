@@ -1,0 +1,103 @@
+jota (1995 points)
+
+Space Marines
+Ultramarines
+Strike Force (2000 points)
+Gladius Task Force
+
+
+CHARACTERS
+
+Apothecary Biologis (85 points)
+  • 1x Absolvor bolt pistol
+    1x Close combat weapon
+  • Enhancement: Fire Discipline
+
+Lieutenant (65 points)
+  • 1x Bolt Pistol
+    1x Close combat weapon
+    1x Master-crafted bolter
+
+Lieutenant with Combi-weapon (80 points)
+  • 1x Combi-weapon
+    1x Paired combat blades
+  • Enhancement: Artificer Armour
+
+Marneus Calgar (185 points)
+  • 1x Marneus Calgar
+    • Warlord
+    • 1x Gauntlets of Ultramar
+  • 2x Victrix Honour Guard
+    • 2x Victrix power sword
+
+Techmarine (70 points)
+  • 1x Forge bolter
+    1x Grav-pistol
+    1x Omnissian power axe
+    1x Servo-arm
+  • Enhancement: The Honour Vehement
+
+
+OTHER DATASHEETS
+
+Aggressor Squad (240 points)
+  • 1x Aggressor Sergeant
+    • 1x Auto boltstorm gauntlets
+      1x Fragstorm grenade launcher
+      1x Twin power fists
+  • 5x Aggressor
+    • 5x Auto boltstorm gauntlets
+      5x Fragstorm grenade launcher
+      5x Twin power fists
+
+Assault Intercessors with Jump Packs (170 points)
+  • 1x Assault Intercessor Sergeant with Jump Pack
+    • 1x Astartes chainsword
+      1x Plasma pistol
+  • 9x Assault Intercessors with Jump Packs
+    • 9x Astartes chainsword
+      7x Heavy bolt pistol
+      2x Plasma pistol
+
+Hellblaster Squad (250 points)
+  • 1x Hellblaster Sergeant
+    • 1x Bolt pistol
+      1x Close combat weapon
+      1x Plasma incinerator
+  • 9x Hellblaster
+    • 9x Bolt pistol
+      9x Close combat weapon
+      9x Plasma incinerator
+
+Inceptor Squad (260 points)
+  • 1x Inceptor Sergeant
+    • 1x Close combat weapon
+      1x Plasma exterminators
+  • 5x Inceptor
+    • 5x Close combat weapon
+      5x Plasma exterminators
+
+Redemptor Dreadnought (210 points)
+  • 1x Icarus rocket pod
+    1x Macro plasma incinerator
+    1x Onslaught gatling cannon
+    1x Redemptor fist
+    1x Twin storm bolter
+
+Repulsor Executioner (220 points)
+  • 1x Armoured hull
+    1x Heavy laser destroyer
+    1x Heavy onslaught gatling cannon
+    1x Icarus rocket pod
+    1x Ironhail heavy stubber
+    1x Repulsor Executioner defensive array
+    1x Twin Icarus ironhail heavy stubber
+    1x Twin heavy bolter
+
+Storm Speeder Thunderstrike (160 points)
+  • 1x Close combat weapon
+    1x Stormfury missiles
+    1x Thunderstrike las-talon
+    1x Twin Icarus rocket pod
+
+Exported with App Version: v1.11.0 (39), Data Version: v352

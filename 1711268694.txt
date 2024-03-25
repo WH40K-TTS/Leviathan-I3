@@ -1,0 +1,103 @@
+Lista agresiva (2000 points)
+
+Adeptus Custodes
+Strike Force (2000 points)
+Shield Host
+
+
+CHARACTERS
+
+Blade Champion (145 points)
+  • 1x Vaultswords
+  • Enhancement: Veiled Blade
+
+Blade Champion (150 points)
+  • 1x Vaultswords
+  • Enhancement: Ceaseless Hunter
+
+Shield-Captain (150 points)
+  • 1x Guardian spear
+  • Enhancement: Inspirational Exemplar
+
+Trajann Valoris (160 points)
+  • Warlord
+  • 1x Watcher’s Axe
+
+
+BATTLELINE
+
+Custodian Guard (225 points)
+  • 5x Custodian Guard
+    • 5x Guardian spear
+
+Custodian Guard (225 points)
+  • 5x Custodian Guard
+    • 5x Guardian spear
+
+Prosecutors (40 points)
+  • 1x Prosecutor Sister Superior
+    • 1x Boltgun
+      1x Close combat weapon
+  • 3x Prosecutor
+    • 3x Boltgun
+      3x Close combat weapon
+
+Prosecutors (40 points)
+  • 1x Prosecutor Sister Superior
+    • 1x Boltgun
+      1x Close combat weapon
+  • 3x Prosecutor
+    • 3x Boltgun
+      3x Close combat weapon
+
+
+OTHER DATASHEETS
+
+Custodian Wardens (250 points)
+  • 5x Custodian Warden
+    • 5x Guardian spear
+
+Custodian Wardens (250 points)
+  • 5x Custodian Warden
+    • 5x Guardian spear
+
+Vigilators (50 points)
+  • 1x Vigilator Sister Superior
+    • 1x Executioner greatblade
+  • 3x Vigilator
+    • 3x Executioner greatblade
+
+Vigilators (50 points)
+  • 1x Vigilator Sister Superior
+    • 1x Executioner greatblade
+  • 3x Vigilator
+    • 3x Executioner greatblade
+
+Witchseekers (50 points)
+  • 1x Witchseeker Sister Superior
+    • 1x Close combat weapon
+      1x Witchseeker flamer
+  • 3x Witchseeker
+    • 3x Close combat weapon
+      3x Witchseeker flamer
+
+Witchseekers (50 points)
+  • 1x Witchseeker Sister Superior
+    • 1x Close combat weapon
+      1x Witchseeker flamer
+  • 3x Witchseeker
+    • 3x Close combat weapon
+      3x Witchseeker flamer
+
+
+ALLIED UNITS
+
+Callidus Assassin (90 points)
+  • 1x Neural shredder
+    1x Phase sword and poison blades
+
+Eversor Assassin (75 points)
+  • 1x Executioner pistol
+    1x Power sword and neuro gauntlet
+
+Exported with App Version: v1.11.0 (39), Data Version: v352

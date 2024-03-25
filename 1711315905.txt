@@ -1,0 +1,41 @@
++++++++++++++++++++++++++++++++++++++++++++++++
++ FACTION KEYWORD: Imperium - Adeptus Custodes
++ DETACHMENT: Shield Host
++ TOTAL ARMY POINTS: 2000pts
++ ALLIED UNITS: Agents of the Imperium
++
++ WARLORD: Char4: Trajann Valoris
++ ENHANCEMENT: 
++ NUMBER OF UNITS: 12
++++++++++++++++++++++++++++++++++++++++++++++++
+
+Char1: 1x Blade Champion (150 pts): Vault sword
+Enhancement: Ceaseless Hunter (30 pts)
+Char2: 1x Blade Champion (145 pts): Vault sword
+Enhancement: Unstoppable Destroyer (25 pts)
+Char3: 1x Blade Champion (145 pts): Vault sword
+Enhancement: Veiled Blade (25 pts)
+Char4: 1x Trajann Valoris (160 pts): Warlord, Watcher's Axe
+
+4x Custodian Guard (180 pts)
+• 3x Custodian Guard (Guardian Spear): Guardian Spear
+• 1x Custodian Guard (Vexilla, Praesidium Shield & Misericordia): Vexilla, Misericordia
+4x Custodian Guard (180 pts)
+• 3x Custodian Guard (Guardian Spear): Guardian Spear
+• 1x Custodian Guard (Vexilla, Praesidium Shield & Misericordia): Vexilla, Misericordia
+4x Prosecutors (40 pts)
+• 1x Prosecutor Sister Superior: Boltgun, Close combat weapon
+• 3x Prosecutor: Boltgun, Close combat weapon
+
+5x Allarus Custodians (325 pts): Balistus grenade launcher, Guardian Spear
+4x Custodian Wardens (200 pts)
+• 3x Custodian Warden (Guardian Spear): Guardian Spear
+• 1x Custodian Warden: Vexilla, Guardian Spear
+4x Custodian Wardens (200 pts)
+• 3x Custodian Warden (Guardian Spear): Guardian Spear
+• 1x Custodian Warden: Vexilla, Guardian Spear
+4x Custodian Wardens (200 pts)
+• 3x Custodian Warden (Guardian Spear): Guardian Spear
+• 1x Custodian Warden: Vexilla, Guardian Spear
+
+1x Lord Inquisitor Kyria Draxus (75 pts): Dirgesinger, Power fist, Psychic Tempest

@@ -1,0 +1,52 @@
++++++++++++++++++++++++++++++++++++++++++++++++
++ FACTION KEYWORD: Chaos - Death Guard
++ DETACHMENT: Plague Company
++ TOTAL ARMY POINTS: 1995pts
++ ALLIED UNITS: Legiones Daemonica
++
++ WARLORD: Char4: Mortarion
++ ENHANCEMENT: 
++ NUMBER OF UNITS: 17
++++++++++++++++++++++++++++++++++++++++++++++++
+
+Char1: 1x Biologus Putrifier (50 pts): Hyper blight grenades, Injector pistol, Plague knives
+Char2: 1x Foul Blightspawn (50 pts): Close combat weapon, Plague sprayer
+Char3: 1x Lord of Virulence (80 pts): Heavy plague fist, Twin plague spewer
+Char4: 1x Mortarion (325 pts): Warlord, Rotwind, Silence, The Lantern
+Char5: 1x Typhus (80 pts): Master-crafted manreaper
+
+5x Plague Marines (90 pts)
+• 4x Plague Marine
+    2 with Bubotic weapons, Plague knives
+    1 with Heavy plague weapon, Plague knives
+    1 with Plague knives, Meltagun
+• 1x Plague Champion: Plasma gun
+10x Plague Marines (180 pts)
+• 9x Plague Marine
+    4 with Bubotic weapons, Plague knives
+    4 with Heavy plague weapon, Plague knives
+    1 with Plague knives, Meltagun
+• 1x Plague Champion: Plasma gun
+5x Plague Marines (90 pts)
+• 4x Plague Marine
+    2 with Bubotic weapons, Plague knives
+    1 with Heavy plague weapon, Plague knives
+    1 with Plague knives, Meltagun
+• 1x Plague Champion: Plasma gun, Heavy plague weapon
+
+10x Death Guard Cultists (50 pts)
+• 9x Cultist
+    6 with Brutal assault weapon, Cultist firearm
+    1 with Brutal assault weapon, Flamer
+    1 with Brutal assault weapon, Grenade launcher
+    1 with Brutal assault weapon, Heavy stubber
+• 1x Cultist Champion: Brutal assault weapon, Cultist firearm
+1x Plagueburst Crawler (180 pts): Armoured tracks, Plagueburst mortar, Heavy slugger, 2x Entropy cannon
+1x Plagueburst Crawler (180 pts): Armoured tracks, Plagueburst mortar, Heavy slugger, 2x Entropy cannon
+1x Plagueburst Crawler (180 pts): Armoured tracks, Plagueburst mortar, Heavy slugger, 2x Entropy cannon
+1x Death Guard Rhino (75 pts): Armoured tracks, Havoc launcher, Plague combi-bolter, Plague combi-bolter
+1x Death Guard Rhino (75 pts): Armoured tracks, Havoc launcher, Plague combi-bolter, Plague combi-bolter
+
+3x Nurglings (40 pts): Diseased claws and teeth
+3x Nurglings (40 pts): Diseased claws and teeth
+1x Rotigus (230 pts): Gnarlrod, Streams of brackish filth

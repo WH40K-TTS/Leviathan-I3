@@ -1,0 +1,169 @@
+Navastelroy (2000 points)
+
+Genestealer Cults
+Strike Force (2000 points)
+Ascension Day
+
+
+CHARACTERS
+
+Clamavus (50 points)
+  • 1x Autopistol
+    1x Close combat weapon
+
+Nexos (60 points)
+  • 1x Autopistol
+    1x Close combat weapon
+
+Nexos (60 points)
+  • 1x Autopistol
+    1x Close combat weapon
+
+Patriarch (85 points)
+  • Warlord
+  • 1x Patriarch’s claws
+
+Primus (100 points)
+  • 1x Cult bonesword
+    1x Scoped needle pistol
+    1x Toxin injector claw
+  • Enhancement: Focus of Adoration
+
+Primus (90 points)
+  • 1x Cult bonesword
+    1x Scoped needle pistol
+    1x Toxin injector claw
+
+Primus (90 points)
+  • 1x Cult bonesword
+    1x Scoped needle pistol
+    1x Toxin injector claw
+
+Reductus Saboteur (65 points)
+  • 1x Autopistol
+    1x Close combat weapon
+    1x Demolition charges
+    1x Remote explosives
+
+Reductus Saboteur (65 points)
+  • 1x Autopistol
+    1x Close combat weapon
+    1x Demolition charges
+    1x Remote explosives
+
+Reductus Saboteur (65 points)
+  • 1x Autopistol
+    1x Close combat weapon
+    1x Demolition charges
+    1x Remote explosives
+
+
+BATTLELINE
+
+Acolyte Hybrids (170 points)
+  • 1x Acolyte Leader
+    • 1x Hand flamer
+      1x Leader’s cult weapons
+  • 9x Acolyte Hybrid
+    • 1x Cult Icon
+      5x Cult claws and knife
+      4x Cult claws and knife
+      4x Demolition charges
+      4x Hand flamer
+
+Acolyte Hybrids (170 points)
+  • 1x Acolyte Leader
+    • 1x Hand flamer
+      1x Leader’s cult weapons
+  • 9x Acolyte Hybrid
+    • 1x Cult Icon
+      5x Cult claws and knife
+      4x Cult claws and knife
+      4x Demolition charges
+      4x Hand flamer
+
+Neophyte Hybrids (180 points)
+  • 1x Neophyte Leader
+    • 1x Autopistol
+      1x Close combat weapon
+      1x Hybrid firearm
+  • 19x Neophyte Hybrid
+    • 19x Autopistol
+      19x Close combat weapon
+      1x Cult Icon
+      4x Grenade launcher
+      11x Hybrid firearm
+      4x Seismic cannon
+
+Neophyte Hybrids (90 points)
+  • 1x Neophyte Leader
+    • 1x Autopistol
+      1x Leader pistol
+      1x Power weapon
+  • 9x Neophyte Hybrid
+    • 9x Autopistol
+      9x Close combat weapon
+      1x Cult Icon
+      2x Grenade launcher
+      5x Hybrid firearm
+      2x Seismic cannon
+
+Neophyte Hybrids (180 points)
+  • 1x Neophyte Leader
+    • 1x Autopistol
+      1x Close combat weapon
+      1x Hybrid firearm
+  • 19x Neophyte Hybrid
+    • 19x Autopistol
+      19x Close combat weapon
+      1x Cult Icon
+      4x Grenade launcher
+      11x Hybrid firearm
+      4x Seismic cannon
+
+Neophyte Hybrids (180 points)
+  • 1x Neophyte Leader
+    • 1x Autopistol
+      1x Close combat weapon
+      1x Hybrid firearm
+  • 19x Neophyte Hybrid
+    • 19x Autopistol
+      19x Close combat weapon
+      1x Cult Icon
+      4x Grenade launcher
+      11x Hybrid firearm
+      4x Seismic cannon
+
+
+OTHER DATASHEETS
+
+Achilles Ridgerunners (85 points)
+  • 1x Heavy mortar
+    1x Ridgerunner wheels
+    1x Survey Augur
+    1x Twin heavy stubber
+
+Achilles Ridgerunners (85 points)
+  • 1x Heavy mortar
+    1x Ridgerunner wheels
+    1x Survey Augur
+    1x Twin heavy stubber
+
+Purestrain Genestealers (75 points)
+  • 5x Purestrain Genestealer
+    • 5x Cult claws and talons
+
+
+ALLIED UNITS
+
+Catachan Jungle Fighters (55 points)
+  • 1x Jungle Fighter Sergeant
+    • 1x Close combat weapon
+      1x Laspistol
+  • 9x Jungle Fighter
+    • 9x Close combat weapon
+      2x Flamer
+      7x Lasgun
+      1x Vox-caster
+
+Exported with App Version: v1.11.0 (39), Data Version: v352

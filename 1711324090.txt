@@ -1,0 +1,65 @@
+++ Army Roster (Xenos - Leagues of Votann) [2,000pts] ++
+
++ Configuration +
+
+Battle Size: 2. Strike Force (2000 Point limit)
+
+Detachment Choice: Oathband
+
+Show/Hide Options: Legends are visible, Unaligned Forces are visible, Unaligned Fortifications are visible
+
++ Character +
+
+Brôkhyr Iron-master [85pts]: Grim Demeanour
+. Brôkhyr Iron-master: Graviton hammer, Graviton rifle
+. E-COG: Autoch-pattern bolt pistol, Close combat weapon
+. E-COG: Plasma torch
+. E-COG: Manipulator arms
+. Ironkyn Assistant: Close combat weapon, Las-beam cutter
+
+Einhyr Champion [60pts]: Autoch-pattern combi-bolter, Mass hammer, Weavefield crest
+
+Einhyr Champion [60pts]: Autoch-pattern combi-bolter, Mass hammer, Weavefield crest
+
+Kâhl [85pts]: A Long List, Mass gauntlet, Rampart crest, Volkanite disintegrator, Warlord
+
++ Battleline +
+
+Hearthkyn Warriors [110pts]: Comms array, Medipack, Pan spectral scanner
+. 7x Hearthkyn Warrior: 7x Autoch-pattern bolt pistol, 7x Autoch-pattern bolter, 7x Close combat weapon
+. Hearthkyn Warrior w/ heavy weapon: Autoch-pattern bolt pistol, Close combat weapon, Magna-rail rifle*
+. Hearthkyn Warrior w/ heavy weapon: Autoch-pattern bolt pistol, Close combat weapon, HYLas auto rifle*
+. Theyn: Autoch-pattern bolt pistol, Autoch-pattern bolter, Close combat weapon, Weavefield crest
+
++ Infantry +
+
+Brôkhyr Thunderkyn [170pts]
+. 6x Brôkhyr Thunderkyn: 6x Close combat weapon, 6x Graviton blast cannon
+
+Einhyr Hearthguard [320pts]
+. 9x Einhyr Hearthguard: 9x Concussion gauntlet, 9x Exo-armour grenade launcher, 9x Volkanite disintegrator
+. Hesyr: Concussion hammer, Exo-armour grenade launcher, Teleport crest, Volkanite disintegrator
+
+Einhyr Hearthguard [160pts]
+. 4x Einhyr Hearthguard: 4x Concussion gauntlet, 4x Exo-armour grenade launcher, 4x Volkanite disintegrator
+. Hesyr: Concussion hammer, Exo-armour grenade launcher, Volkanite disintegrator, Weavefield crest
+
+Einhyr Hearthguard [160pts]
+. 4x Einhyr Hearthguard: 4x Concussion gauntlet, 4x Exo-armour grenade launcher, 4x Volkanite disintegrator
+. Hesyr: Concussion hammer, Exo-armour grenade launcher, Volkanite disintegrator, Weavefield crest
+
++ Vehicle +
+
+Hekaton Land Fortress [225pts]: Armoured wheels, MATR autocannon, Pan spectral scanner, SP heavy conversion beamer, 2x Twin bolt cannon
+
+Hekaton Land Fortress [225pts]: Armoured wheels, MATR autocannon, Pan spectral scanner, SP heavy conversion beamer, 2x Twin bolt cannon
+
+Hekaton Land Fortress [225pts]: Armoured wheels, MATR autocannon, Pan spectral scanner, SP heavy conversion beamer, 2x Twin bolt cannon
+
++ Dedicated Transport +
+
+Sagitaur [115pts]: Armoured wheels, HYLas beam cannon, Twin bolt cannon
+
+++ Total: [2,000pts] ++
+
+Created with BattleScribe (https://battlescribe.net)

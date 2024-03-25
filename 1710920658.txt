@@ -1,0 +1,68 @@
+Army Roster (Aeldari - Craftworlds) [2,000pts]
+Configuration
+Battle Size
+Selections: 2. Strike Force (2000 Point limit)
+Detachment
+Selections: Battle Host
+Show/Hide Options
+Selections: Legends are visible, Unaligned Forces are visible, Unaligned Fortifications are visible
+Epic Hero
+Fuegan [115pts]
+Character
+Autarch Wayleaper [130pts]
+Selections: Dragon Fusion Gun, Fate's Messenger, Mandiblasters, Star Glaive, Warlord
+Infantry
+Fire Dragons [85pts]
+4x Fire Dragon
+Selections: 4x Close combat weapon, 4x Dragon Fusion Gun
+Fire Dragon Exarch
+Selections: Firepike
+Rangers [55pts]
+5x Ranger
+Selections: 5x Close Combat Weapon, 5x Ranger long rifle, 5x Shuriken Pistol
+Rangers [55pts]
+5x Ranger
+Selections: 5x Close Combat Weapon, 5x Ranger long rifle, 5x Shuriken Pistol
+Shadow Spectres [95pts]
+5x Shadow Spectre
+Selections: 5x Close combat weapon, 5x Prism Rifle
+Shadow Spectres [95pts]
+5x Shadow Spectre
+Selections: 5x Close combat weapon, 5x Prism Rifle
+Shadow Spectres [95pts]
+5x Shadow Spectre
+Selections: 5x Close combat weapon, 5x Prism Rifle
+Swooping Hawks [75pts]
+4x Swooping Hawk
+Selections: 4x Close combat weapon, 4x Lasblaster
+Swooping Hawk Exarch
+Selections: Aeldari Power Sword, Hawk's Talon
+Swooping Hawks [75pts]
+4x Swooping Hawk
+Selections: 4x Close combat weapon, 4x Lasblaster
+Swooping Hawk Exarch
+Selections: Aeldari Power Sword, Hawk's Talon
+Warp Spiders [115pts]
+4x Warp Spider
+Selections: 4x Close combat weapon, 4x Deathspinner
+Warp Spider Exarch
+Selections: Deathspinner
+Mounted
+Shroud Runners [80pts]
+3x Shroud Runner
+Selections: 3x Close Combat Weapon, 3x Ranger long rifle, 3x Scatter Laser, 3x Shuriken Pistol
+Vehicle
+Falcon [140pts]
+Selections: Bright Lance, Shuriken Cannon
+Fire Prism [180pts]
+Selections: Shuriken Cannon
+Fire Prism [180pts]
+Selections: Shuriken Cannon
+Fire Prism [180pts]
+Selections: Shuriken Cannon
+Support Weapons [125pts]
+Selections: D-cannon
+Support Weapons [125pts]
+Selections: D-cannon
+
+Created with BattleScribe

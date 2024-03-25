@@ -1,0 +1,92 @@
+++ Army Roster (Xenos - Necrons) [1,995pts] ++
+
++ Configuration +
+
+
+Battle Size: 2. Strike Force (2000 Point limit)
+
+Detachment Choice: Hypercrypt Legion
+
+Show/Hide Options: Legends are visible, Unaligned Forces are visible, Unaligned Fortifications are visible
+
++ Epic Hero +
+
+
+C'tan Shard of the Nightbringer [255pts]
+
+Illuminor Szeras [160pts]
+
++ Character +
+
+
+Hexmark Destroyer [80pts]: Dimensional Overseer
+
+Hexmark Destroyer [70pts]
+
+Hexmark Destroyer [70pts]
+
+Plasmancer [80pts]: Arisen Tyrant, Warlord
+
+Plasmancer [75pts]: Osteoclave Fulcrum
+
++ Battleline +
+
+
+Immortals [140pts]
+
+. 10x Immortal: 10x Close combat weapon, 10x Gauss blaster
+
+Immortals [140pts]
+
+. 10x Immortal: 10x Close combat weapon, 10x Tesla carbine
+
++ Infantry +
+
+
+Deathmarks [65pts]
+
+. 5x Deathmark: 5x Close combat weapon, 5x Synaptic disintegrator
+
++ Mounted +
+
+
+Lokhust Destroyers [30pts]
+
+. Lokhust Destroyer
+
+Lokhust Destroyers [30pts]
+
+. Lokhust Destroyer
+
+Lokhust Heavy Destroyers [100pts]
+
+. 2x Destroyer w/ gauss destructor: 2x Close combat weapon, 2x Gauss destructor
+
+Lokhust Heavy Destroyers [100pts]
+
+. 2x Destroyer w/ enmitic exterminator: 2x Close combat weapon, 2x Enmitic exterminator
+
+Lokhust Heavy Destroyers [100pts]
+
+. 2x Destroyer w/ gauss destructor: 2x Close combat weapon, 2x Gauss destructor
+
+Tomb Blades [75pts]
+
+. Tomb Blade: Particle beamer, Shadowloom, Shieldvanes
+. Tomb Blade: Particle beamer, Shadowloom, Shieldvanes
+. Tomb Blade: Shadowloom, Shieldvanes, Twin tesla carbine
+
+Tomb Blades [75pts]
+
+. Tomb Blade: Particle beamer, Shadowloom, Shieldvanes
+. Tomb Blade: Particle beamer, Shadowloom, Shieldvanes
+. Tomb Blade: Shadowloom, Shieldvanes, Twin tesla carbine
+
++ Vehicle +
+
+
+Monolith [350pts]
+
+. Four death rays
+
+++ Total: [1,995pts] ++

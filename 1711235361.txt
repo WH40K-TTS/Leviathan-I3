@@ -1,0 +1,101 @@
++++ Lista torneo 2000pts Green Knights (Warhammer 40,000 10th Edition) [1,995pts] +++
+
+++ Army Roster (Imperium - Adeptus Astartes - Black Templars) [1,995pts] ++
+
++ Configuration +
+
+
+Battle Size
+
+Detachment: Ironstorm Spearhead
+
+Show/Hide Options: Agents of the Imperium are visible, Imperial Knights are visible, Legends are visible, Titans are visible, Unaligned Forces are visible, Unaligned Fortifications are visible
+
++ Character [170pts] +
+
+
+Marshal [90pts]: Combi-weapon, Master-crafted Power Weapon, The Flesh is Weak [10pts], Warlord
+
+Techmarine [80pts]: Adept of the Omnissiah [25pts], Forge Bolter, Grav-pistol, Omnissian Power Axe, Servo-arm
+
++ Battleline [280pts] +
+
+
+Primaris Crusader Squad [140pts]
+
+. 3x Primaris Initiate w/Chainsword & Heavy Bolt Pistol: 3x Astartes Chainsword, 3x Heavy Bolt Pistol
+. 2x Primaris Initiate w/Power Fist & Heavy Bolt Pistol: 2x Heavy Bolt Pistol, 2x Power Fist
+. 4x Primaris Neophyte w/Astartes Chainsword: 4x Astartes Chainsword, 4x Bolt Pistol
+. Primaris Sword Brother: Power Weapon, Pyre Pistol
+
+Primaris Crusader Squad [140pts]
+
+. 3x Primaris Initiate w/Chainsword & Heavy Bolt Pistol: 3x Astartes Chainsword, 3x Heavy Bolt Pistol
+. 2x Primaris Initiate w/Power Fist & Heavy Bolt Pistol: 2x Heavy Bolt Pistol, 2x Power Fist
+. 4x Primaris Neophyte w/Astartes Chainsword: 4x Astartes Chainsword, 4x Bolt Pistol
+. Primaris Sword Brother: Power Weapon, Pyre Pistol
+
++ Infantry [805pts] +
+
+
+Assault Intercessors with Jump Packs [85pts]
+
+. Assault Intercessor Sergeant with Jump Pack: Plasma Pistol, Power Fist
+. 3x Assault Intercessors with Jump Pack: 3x Astartes Chainsword, 3x Heavy Bolt Pistol
+. Assault Intercessors with Jump Pack w/ Plasma Pistol: Astartes Chainsword, Plasma Pistol
+
+Assault Intercessors with Jump Packs [85pts]
+
+. Assault Intercessor Sergeant with Jump Pack: Plasma Pistol, Power Fist
+. 3x Assault Intercessors with Jump Pack: 3x Astartes Chainsword, 3x Heavy Bolt Pistol
+. Assault Intercessors with Jump Pack w/ Plasma Pistol: Astartes Chainsword, Plasma Pistol
+
+Eliminator Squad [75pts]
+
+. 2x Eliminator: 2x Bolt Pistol, 2x Bolt Sniper Rifle, 2x Close Combat Weapon
+. Eliminator Sergeant: Bolt Pistol, Bolt Sniper Rifle, Close Combat Weapon
+
+Infiltrator Squad [100pts]
+
+. Infiltrator Sergeant: Bolt Pistol, Close Combat Weapon, Marksman Bolt Carbine
+. 4x Infiltrators: 4x Bolt Pistol, 4x Close Combat Weapon, 4x Marksman Bolt Carbine
+
+Primaris Sword Brethren [280pts]
+
+. Primaris Sword Brother: Power Weapon, Pyre Pistol
+. Primaris Sword Brother: Power Weapon, Pyre Pistol
+. Primaris Sword Brother: Power Weapon, Pyre Pistol
+. Primaris Sword Brother: Heavy Bolt Pistol, Thunder Hammer
+. Primaris Sword Brother: Heavy Bolt Pistol, Thunder Hammer
+. Primaris Sword Brother: Plasma Pistol, Power Weapon
+. Primaris Sword Brother: Plasma Pistol, Power Weapon
+. 2x Primaris Sword Brother w/Twin Lightning Claws: 2x Twin Lightning Claws
+. Sword Brother Castellan: Combi-weapon, Master-crafted Power Weapon
+
+Sternguard Veteran Squad [90pts]
+
+. Sternguard Veteran Sergeant: Close Combat Weapon, Power Fist, Sternguard Bolt Pistol, Sternguard Bolt Rifle
+. 4x Sternguard Veteran w/Bolt Rifle: 4x Close Combat Weapon, 4x Sternguard Bolt Pistol, 4x Sternguard Bolt Rifle
+
+Sternguard Veteran Squad [90pts]
+
+. Sternguard Veteran Sergeant: Close Combat Weapon, Power Fist, Sternguard Bolt Pistol, Sternguard Bolt Rifle
+. 4x Sternguard Veteran w/Bolt Rifle: 4x Close Combat Weapon, 4x Sternguard Bolt Pistol, 4x Sternguard Bolt Rifle
+
++ Vehicle [570pts] +
+
+
+Black Templars Gladiator Lancer [165pts]: 2 Storm Bolters, Armoured Hull, Icarus Rocket Pod, Lancer Laser Destroyer, Multi-melta
+
+Black Templars Gladiator Lancer [165pts]: 2 Storm Bolters, Armoured Hull, Icarus Rocket Pod, Lancer Laser Destroyer, Multi-melta
+
+Land Raider [240pts]: Armoured Tracks, 2x Godhammer Lascannon, Hunter Killer Missile, Multi-melta, Storm Bolter, Twin Heavy Bolter
+
++ Dedicated Transport [170pts] +
+
+
+Black Templars Impulsor [85pts]: 2 Storm Bolters, Armoured Hull, Bellicatus Missile Array, Multi-melta
+
+Black Templars Impulsor [85pts]: 2 Storm Bolters, Armoured Hull, Bellicatus Missile Array, Multi-melta
+
+Created with BattleScribe (https://battlescribe.net)
